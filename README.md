@@ -50,4 +50,4 @@ Functionality:
      
      
 Misc:
-    This is my first python program lets goooo
+    This is my first purely python program lets goooo
